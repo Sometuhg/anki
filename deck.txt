@@ -1,6 +1,5 @@
-What is a segmentation fault?|Accessing memory you don't own|1|1774768557
-What is a segmentation fault?|Accessing memory you don't own|1|1775286957
-What is a segmentation fault?|Accessing memory you don't own|1|1775286957
-What is a segmentation fault?|Accessing memory you don't own|1|1775286957
-test|12|1|1775286957
-what is this about?|learning|1|1775286957
+What is malloc?|Allocates heap memory|1774952798|0|1|2.320000
+what is a system call|a way for user-level application to request a service from the kernall|1774964070|0|1|2.360000
+what is the kernel?|the component of the os that is always load in memory and manages resources|1774964323|1|1|2.360000
+what is a system call?|user level applications requesting services from the kernel|1775396325|2|6|2.600000
+whodhsoiji|sdhjoikjdnoiqjoi|1774964327|1|1|2.500000
